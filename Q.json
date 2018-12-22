@@ -1,0 +1,1392 @@
+[
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3394355?showLevel=a1_c2#",
+    "data": {
+      "word": "quaint",
+      "transcription": "/kweɪnt/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "adjective",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "attractive or unusual in an old-fashioned way",
+                  "dictionaryExamples": ["a quaint little village"],
+                  "learnerExample": " Learner example: The quaint cafes would be replaced by McDonald's and the charm of the place would be lost. Certificate of Proficiency in English; C2; Greek"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056824?showLevel=a1_c2#",
+    "data": {
+      "word": "qualification",
+      "transcription": "/ˌkwɑl.ə.fəˈkeɪ.ʃən/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "qualification" },
+        { "part": "Verbs:", "value": "qualify, disqualify" },
+        { "part": "Adjectives:", "value": "qualified, unqualified" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "ABILITY",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "[C often plural]",
+                  "def": "skills, experience, education, etc., that provide you with the ability do something, especially a job",
+                  "dictionaryExamples": [
+                    "My qualifications for this position include a degree in biochemistry and three years research experience.",
+                    "I'm not sure if I meet the qualifications for membership."
+                  ],
+                  "learnerExample": " Learner example: I hope my qualifications will meet your requirements. Please do not hesitate to contact me if you want further information. First Certificate in English; B2; Greek"
+                }
+              },
+              {
+                "short": " LEVEL",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "[C often plural]",
+                  "def": "a level of skill or education that you have achieved",
+                  "dictionaryExamples": [
+                    "Passing the advanced Red Cross life-saving course is a qualification for all our lifeguards."
+                  ],
+                  "learnerExample": " Learner example: I like being at the beach and swimming and recently got a qualification for an assistant life-guard on the beach. \n First Certificate in English; B2; Japanese"
+                }
+              },
+              {
+                "short": "SUCCESS",
+                "phrase": "",
+                "sense": {
+                  "level": "C1",
+                  "grams": "[U]",
+                  "def": "success in getting into a competition",
+                  "dictionaryExamples": [
+                    "Mexico's qualification for the World Cup."
+                  ],
+                  "learnerExample": " Learner example: The video tells how particular national teams got through their qualification for finals and then presents the most interesting games that took place in Italy '92. \n Certificate in Advanced English; C1; Polish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056826?showLevel=a1_c2#",
+    "data": {
+      "word": "qualified",
+      "transcription": "/ˈkwɑl.əˌfɑɪd/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "qualification" },
+        { "part": "Verbs:", "value": "qualify, disqualify" },
+        { "part": "Adjectives:", "value": "qualified, unqualified" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "adjective",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "having the standard of knowledge, experience, education, or ability you need to do or be something",
+                  "dictionaryExamples": [
+                    "She was highly qualified to run the State Department.",
+                    "qualified applicants/candidates",
+                    "There seems to be a shortage of qualified language teachers."
+                  ],
+                  "learnerExample": " Learner example: I don't think that anyone else in my country is qualified to take over his seat. First Certificate in English; B2; Chinese"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056830?showLevel=a1_c2#",
+    "data": {
+      "word": "qualify",
+      "transcription": "/ˈkwɑl.əˌfɑɪ/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "qualification" },
+        { "part": "Verbs:", "value": "qualify, disqualify" },
+        { "part": "Adjectives:", "value": "qualified, unqualified" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "REACH STANDARD",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to achieve or have the standard of knowledge, experience, education, or ability you need for a particular job",
+                  "dictionaryExamples": [
+                    "She was qualified to teach high school mathematics and physics.",
+                    "James hopes to qualify as a nurse practitioner."
+                  ],
+                  "learnerExample": " Learner example: I could give the [band] members \"Shiatsu massage\" just before the concert to make them relax!! Can you imagine how much I appreciated that I am qualified in massage? First Certificate in English; B2; Japanese"
+                }
+              },
+              {
+                "short": "BE ALLOWED",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "[I or T]",
+                  "def": "If you qualify for something, you are allowed to do it or have it.",
+                  "dictionaryExamples": [
+                    "I hope I'll qualify for financial aid to help pay for school.",
+                    "To qualify for the training program you need to be over 18."
+                  ],
+                  "learnerExample": ""
+                }
+              },
+              {
+                "short": "SPORTS",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "[I]",
+                  "def": "to succeed in getting into a competition or in reaching a particular stage in a competition",
+                  "dictionaryExamples": [
+                    "Derrick won his tennis match and qualified for the semifinals.",
+                    "She failed to qualify for the 100 meters, but will take part in the long jump competition."
+                  ],
+                  "learnerExample": " Learner example: I left the stadium disappointed, fear[ing] that Portugal would not qualify for the World Championships once more. First Certificate in English; B2; Portuguese"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056834?showLevel=a1_c2#",
+    "data": {
+      "word": "quality",
+      "transcription": "/ˈkwɑl.ət̬.i/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "GOOD OR BAD",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "[U or no plural]",
+                  "def": "how good or bad something is",
+                  "dictionaryExamples": [
+                    "good/high quality",
+                    "poor/low\n                    quality",
+                    "\n                      The air quality in this area is terrible.",
+                    "\n                      All we are asking for is a decent quality  of life."
+                  ],
+                  "learnerExample": " Learner example: A large school can offer more equipment to use and high quality education. Preliminary English Test; B1; Chinese"
+                }
+              },
+              {
+                "short": "GOOD",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "[U]",
+                  "def": "when something is very good or well made",
+                  "dictionaryExamples": [
+                    "\n                      I was impressed by the quality of their clothes.\n                   "
+                  ],
+                  "learnerExample": " Learner example: They're more expensive than I expected but I prefer quality to quantity. Preliminary English Test; B1; Czech"
+                }
+              },
+              {
+                "short": "CHARACTER",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "[C]",
+                  "def": "a part of someone's character",
+                  "dictionaryExamples": [
+                    "leadership qualities",
+                    "He has a lot of good qualities but being organized isn't one of them.",
+                    "She's a woman of great personal qualities.",
+                    "I don't think he has the right qualities to be a teacher."
+                  ],
+                  "learnerExample": " Learner example: Moreover, I have other qualities such as politeness, [and] I feel pleased when helping people, thus I am capable of looking after members of the public. First Certificate in English; B2; Chinese"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "part": {
+            "title": "adjective",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "very good",
+                  "dictionaryExamples": [
+                    " We only sell quality products in this store."
+                  ],
+                  "learnerExample": " Learner example: On the one hand, you usually have a lot of fun with your friends but on the other hand, it would be better to spend some quality time with your parents! Preliminary English Test; B1; Greek"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056855?showLevel=a1_c2#",
+    "data": {
+      "word": "quantity",
+      "transcription": "/ˈkwɑnt.ət̬.i/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "AMOUNT",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "the amount or number of something",
+                  "dictionaryExamples": [
+                    "a large/small quantity",
+                    "We consume vast quantities of sugar in this country.",
+                    "They are now developing ways to produce the vaccine in large quantities.",
+                    "This recipe is only for two, so I usually double the quantity if I'm cooking for my family."
+                  ],
+                  "learnerExample": " Learner example: I think you should go to the school in the cente[r] of the town; as you wrote, it's bigger, so you'll have the opportunity of making a huge quantity of friends! Preliminary English Test; B1; Italian"
+                }
+              },
+              {
+                "short": "LARGE AMOUNT",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "a lot of something",
+                  "dictionaryExamples": [
+                    "I'm just amazed at the quantity of food that gets eaten."
+                  ],
+                  "learnerExample": " Learner example: What surprised me was the quantity of incorrect figures reported in your article. First Certificate in English; B2; French"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056869?showLevel=a1_c2#",
+    "data": {
+      "word": "quarrel",
+      "transcription": "/ˈkwɑr.əl/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "an argument",
+                  "dictionaryExamples": [
+                    "She had a quarrel with her neighbor.",
+                    "They had a quarrel about/over money a few months back."
+                  ],
+                  "learnerExample": " Learner example: Sometimes, we can have quarrels with our parents who refuse to support our ideas. First Certificate in English; B2; Czech"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to argue",
+                  "dictionaryExamples": [
+                    "I was always quarreling with my brother."
+                  ],
+                  "learnerExample": " Learner example: John was 13 years old and his brother Michael was 7. They were very nice and funny but they were always quarreling. First Certificate in English; B2; Catalan"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056878?showLevel=a1_c2#",
+    "data": {
+      "word": "quarter",
+      "transcription": "/ˈkwɔːr.t̬.ər/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "TIME",
+                "phrase": "",
+                "sense": {
+                  "level": "A1",
+                  "grams": "[no plural]",
+                  "def": "a period of 15 minutes before or after the hour",
+                  "dictionaryExamples": [
+                    "\n                      It's (a) quarter to three.\n                   ",
+                    "\n                      We're leaving at (a) quarter after six."
+                  ],
+                  "learnerExample": " Learner example: You can meet me at my house at a quarter to nine. Key English Test; A2; Portuguese"
+                }
+              },
+              {
+                "short": "FOURTH PART",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "[C]",
+                  "def": "one of four equal or almost equal parts of something; ¼",
+                  "dictionaryExamples": [
+                    "He cut the orange into quarters.",
+                    "I waited a quarter of an hour for her.",
+                    "Under a quarter of people questioned said that they were happily married.",
+                    "My house is situated a mile and three-quarters from here."
+                  ],
+                  "learnerExample": " Learner example: I really enjoy shopping [for] clothes and spend a quarter of my monthly salary for a year in shopping for jeans alone. Preliminary English Test; B1; Tamil"
+                }
+              },
+              {
+                "short": "MONEY",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "[C]",
+                  "def": "a coin in the US and Canada worth 25 cents, or one fourth of a dollar",
+                  "dictionaryExamples": [
+                    "I need some quarters for the washing machine."
+                  ],
+                  "learnerExample": " Learner example: And the last thing but not the least, I was thinking if ev[e]rybody put a quarter of [a] dol[l]ar in our box ev[e]ry week to help the poor people who live here, [b]ehind us, it will help them a lot. \n First Certificate in English; B2; Portuguese"
+                }
+              },
+              {
+                "short": "AREA",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "[C]",
+                  "def": "an area of a city or place that has a special history or character",
+                  "dictionaryExamples": [
+                    "We stayed in the French Quarter in New Orleans."
+                  ],
+                  "learnerExample": " Learner example: It will surely add to the development of the Podgoize quarter but also will sustain the development of all the little shops in this area. Certificate of Proficiency in English; C2; Polish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056921?showLevel=a1_c2#",
+    "data": {
+      "word": "queen",
+      "transcription": "/kwiːn/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "a woman who rules a country because she was born into a royal family, or a woman who is married to a king",
+                  "dictionaryExamples": [
+                    " Queen Victoria",
+                    "The Queen is meeting the Prime Minister today."
+                  ],
+                  "learnerExample": " Learner example: You can visit the castle of Isabel II, [a] Spanish queen. Key English Test; A2; Catalan"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3268315?showLevel=a1_c2#",
+    "data": {
+      "word": "quest",
+      "transcription": "/kwest/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "an attempt to get something or do something difficult",
+                  "dictionaryExamples": [
+                    " the quest for truth",
+                    "  He has begun his quest to become the Conservative Party's first Asian MP."
+                  ],
+                  "learnerExample": " Learner example: This stimulation is essential in our quest for spiritual and emotional well-being and exerts a profound effect on our psyche. Certificate of Proficiency in English; C2; Chinese"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056949?showLevel=a1_c2#",
+    "data": {
+      "word": "question",
+      "transcription": "/ˈkwes.tʃən/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "question" },
+        { "part": "Verbs:", "value": "question" },
+        { "part": "Adjectives:", "value": "questionable" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "ASKING",
+                "phrase": "",
+                "sense": {
+                  "level": "A1",
+                  "grams": "[C]",
+                  "def": "a sentence or phrase used to find out information",
+                  "dictionaryExamples": [
+                    "May I ask you a question?",
+                    "Ask and answer questions with your partner.",
+                    "If you have any questions about the schedule, please feel free to ask me.",
+                    "\"So what movies are playing?\"  \"That's a good question.\"  "
+                  ],
+                  "learnerExample": " Learner example: Our teacher talks to us and gives us some questions. Skills for Life (Entry 1); A1; Spanish"
+                }
+              },
+              {
+                "short": "EXAM",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "[C]",
+                  "def": "in a test or exam, a problem that tests a person's knowledge or ability",
+                  "dictionaryExamples": [
+                    "Answer as many questions as you can."
+                  ],
+                  "learnerExample": " Learner example: In the e-mail were the exam questions, and I felt very happy because I'll pass the test! Preliminary English Test; B1; Spanish"
+                }
+              },
+              {
+                "short": "PROBLEM",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "[C]",
+                  "def": "a situation or problem that needs to be dealt with or considered",
+                  "dictionaryExamples": [
+                    "This raises the question of teacher pay.",
+                    "Two important questions come out of this debate."
+                  ],
+                  "learnerExample": " Learner example: Then it raises an important question: \"[Do] museums provide enough to interest young people?\" First Certificate in English; B2; French"
+                }
+              },
+              {
+                "short": "DOUBT",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "[U]",
+                  "def": "doubt or uncertainty",
+                  "dictionaryExamples": [
+                    "There's no question that this was an accidental fire.",
+                    "There's no question about  whose fault it is.",
+                    "Whether children are reading fewer books is open to question.",
+                    "This latest report calls into question the safety of the drug.",
+                    "His ability has never been in question."
+                  ],
+                  "learnerExample": " Learner example: There's no question that it was absolutely great! First Certificate in English; B2; Greek"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "be a question of",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "used for saying what the most important issue is in a situation",
+                  "dictionaryExamples": [
+                    "Someone needs to be here - it's a question of who would be the best person."
+                  ],
+                  "learnerExample": " Learner example: The choice is a question of price.  Certificate in Advanced English; C1; Portuguese"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "be out of the question",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "If something is out of the question, it is not possible or not allowed.",
+                  "dictionaryExamples": [
+                    "Providing more money is out of the question."
+                  ],
+                  "learnerExample": " Learner example: Walking home was out of the question since that would have taken even longer. Certificate of Proficiency in English; C2; German"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "sb/sth in question",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "the person or thing that is being discussed",
+                  "dictionaryExamples": [
+                    "He sais that he was at a restaurant with his friends on the night in question."
+                  ],
+                  "learnerExample": " Learner example: While this is not necessarily false, it should be borne in mind that the events in question are by no means boring or uninteresting. Certificate of Proficiency in English; C2; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "pose a/the question",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to ask a question",
+                  "dictionaryExamples": [
+                    "It was left to Grazia to pose the question of how the project was to be funded."
+                  ],
+                  "learnerExample": " Learner example: For instance, you can pose a question concerning music to your listeners and the person who is going to call first to answer - correctly of course - will gain a small sum of money. Certificate of Proficiency in English; C2; Greek"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "ASK",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to ask a person about something, especially officially",
+                  "dictionaryExamples": [
+                    "\"What was she questioning you about?\" \"Oh, just about the schedule changes.\"",
+                    "Sixty-eight percent of people questioned in the survey thought noise levels had increased."
+                  ],
+                  "learnerExample": " Learner example: A total of 60 per cent of those questioned suggested that we should find sponsorship for all activities. 30 per cent of those questioned said that there are not enough seats in the reception area. First Certificate in English; B2; Turkish"
+                }
+              },
+              {
+                "short": "EXPRESS DOUBT",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to feel or express doubt about something",
+                  "dictionaryExamples": [
+                    "I'm not for a moment questioning your decision.",
+                    "I'm just questioning whether we need the extra staff."
+                  ],
+                  "learnerExample": " Learner example: It may sound funny, but mud, gravel and snow lying on the school's floors is not a nice sight, so we change our shoes without questioning that rule. First Certificate in English; B2; Polish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3394359?showLevel=a1_c2#",
+    "data": {
+      "word": "questionable",
+      "transcription": "/ˈkwes.tʃə.nə.bəl/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "question" },
+        { "part": "Verbs:", "value": "question" },
+        { "part": "Adjectives:", "value": "questionable" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "adjective",
+            "blocks": [
+              {
+                "short": "NOT CERTAIN",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "possibly not true or correct",
+                  "dictionaryExamples": [
+                    "It is questionable whether that investment will pay off."
+                  ],
+                  "learnerExample": " Learner example: However, it is questionable whether this is possible. Certificate of Proficiency in English; C2; Danish"
+                }
+              },
+              {
+                "short": "NOT HONEST",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "not honest or not legal",
+                  "dictionaryExamples": [
+                    "He's being investigated for questionable business practices."
+                  ],
+                  "learnerExample": " Learner example: I am a policeman, [or] in fact, I used to be one until I was ejected [from] the department because of questionable procedures to enforce the law. Certificate of Proficiency in English; C2; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056958?showLevel=a1_c2#",
+    "data": {
+      "word": "questionmark",
+      "transcription": "/ˈkwes.tʃənˌmɑrk/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "the ? punctuation mark that is put at the end of a phrase or sentence to show that it is a question",
+                  "dictionaryExamples": [],
+                  "learnerExample": ""
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US2180870?showLevel=a1_c2#",
+    "data": {
+      "word": "questionnaire",
+      "transcription": "/ˌkwes.tʃəˈner/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "a set of questions asked of a large number of people to discover information about a subject",
+                  "dictionaryExamples": [
+                    " Residents have been sent questionnaires about their homes and energy use."
+                  ],
+                  "learnerExample": " Learner example: I had to fill in [a] questionnaire about m[yself]. Preliminary English Test; B1; Czech"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056976?showLevel=a1_c2#",
+    "data": {
+      "word": "quick",
+      "transcription": "/kwɪk/",
+      "wordFamily": [
+        { "part": "Adjectives:", "value": "quick" },
+        { "part": "Adverbs:", "value": "quickly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "adjective",
+            "blocks": [
+              {
+                "short": "FAST",
+                "phrase": "",
+                "sense": {
+                  "level": "A1",
+                  "grams": "",
+                  "def": "doing something fast",
+                  "dictionaryExamples": [
+                    "I tried to catch him but he was too quick for me.",
+                    "He was very quick to answer."
+                  ],
+                  "learnerExample": " Learner example: Call me right now at my home: 555-9684. Be quick!!! Key English Test; A2; French"
+                }
+              },
+              {
+                "short": "SHORT TIME",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "lasting a short time",
+                  "dictionaryExamples": [
+                    "Can I ask you a quick question?",
+                    "I had a quick cup of coffee and left the house.",
+                    "I only had time for a quick look at the paper this morning.",
+                    "Could I have a quick word with you, Annie?"
+                  ],
+                  "learnerExample": " Learner example: Dear Teacher, This is just a quick note to apologize for missing tomorrow's class. Preliminary English Test; B1; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1056988?showLevel=a1_c2#",
+    "data": {
+      "word": "quickly",
+      "transcription": "/ˈkwɪk.li/",
+      "wordFamily": [
+        { "part": "Adjectives:", "value": "quick" },
+        { "part": "Adverbs:", "value": "quickly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "adverb",
+            "blocks": [
+              {
+                "short": "FAST SPEED",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "at a fast speed",
+                  "dictionaryExamples": [
+                    "\n                      I quickly shut the door.",
+                    "\n                      She walks quickly."
+                  ],
+                  "learnerExample": " Learner example: It was fantastic match, because [the]  football players run very quickly and they scored four goals. Key English Test; A2; Czech"
+                }
+              },
+              {
+                "short": "SOON",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "after only a very short time",
+                  "dictionaryExamples": [
+                    "These people need to be treated as quickly as possible.",
+                    "He quickly realized she wasn't telling the truth."
+                  ],
+                  "learnerExample": " Learner example: Give it to me as quickly as you can. Key English Test; A2; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1057010?showLevel=a1_c2#",
+    "data": {
+      "word": "quiet",
+      "transcription": "/ˈkwɑɪ.ət/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "quiet" },
+        { "part": "Adjectives:", "value": "quiet" },
+        { "part": "Adverbs:", "value": "quietly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "adjective",
+            "blocks": [
+              {
+                "short": "NOT NOISY",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "making little or no noise",
+                  "dictionaryExamples": [
+                    "Can you be quiet, please?",
+                    "Our new dishwasher is very quiet.",
+                    "It's so quiet without the kids here.",
+                    "She spoke in a quiet voice so she wouldn't wake the baby."
+                  ],
+                  "learnerExample": " Learner example: But now everything must change - after 10 pm [we] must be quiet. Preliminary English Test; B1; Polish"
+                }
+              },
+              {
+                "short": "NOT BUSY",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "without much activity or excitement",
+                  "dictionaryExamples": [
+                    "a quiet town/neighborhood",
+                    "It was a quiet wedding, with just a few friends and relatives.",
+                    "I'd like to spend a quiet night at home."
+                  ],
+                  "learnerExample": " Learner example: My house is near the hospital and it is in a very quiet area. Key English Test; A2; Italian"
+                }
+              },
+              {
+                "short": "NOT TALKING MUCH",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "If someone is quiet, they talk very little.",
+                  "dictionaryExamples": [
+                    "He was a shy, quiet man.",
+                    "I was a bit worried about her - she seemed very quiet."
+                  ],
+                  "learnerExample": " Learner example: He's a quiet person but I'm [that] too. Preliminary English Test; B1; Swiss German"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep (sth) quiet",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to not talk about something",
+                  "dictionaryExamples": [
+                    "It might be wise to keep this quiet for a while."
+                  ],
+                  "learnerExample": " Learner example: They tried to keep it quiet but, somehow, half the village knew about the news in a few days. Certificate of Proficiency in English; C2; Spanish"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "when there is little or no noise",
+                  "dictionaryExamples": ["She needs a some peace and quiet."],
+                  "learnerExample": " Learner example: At least if you were working in a museum, you would probably have some peace and quiet. First Certificate in English; B2; Greek"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1057018?showLevel=a1_c2#",
+    "data": {
+      "word": "quietly",
+      "transcription": "/ˈkwɑɪ.ət.li/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "quiet" },
+        { "part": "Adjectives:", "value": "quiet" },
+        { "part": "Adverbs:", "value": "quietly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "adverb",
+            "blocks": [
+              {
+                "short": "WITHOUT NOISE",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "making little or no noise",
+                  "dictionaryExamples": [
+                    "\n                      \"Don't worry,\" she said quietly.\n                   "
+                  ],
+                  "learnerExample": " Learner example: They were talking quietly and just before [getting into] the car, they kissed. Preliminary English Test; B1; Italian"
+                }
+              },
+              {
+                "short": "WITHOUT ACTIVITY",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "doing something without much noise or activity",
+                  "dictionaryExamples": [
+                    "\n                      He sat quietly on the sofa, reading a book."
+                  ],
+                  "learnerExample": " Learner example: It was about eight o'clock in the evening, I was watching TV quietly in my living-room when the phone rang. Preliminary English Test; B1; German"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1057056?showLevel=a1_c2#",
+    "data": {
+      "word": "quit",
+      "transcription": "/kwɪt/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "STOP WORK",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "[I or T]",
+                  "def": "to leave a job",
+                  "dictionaryExamples": [
+                    "I hated the work so much that I quit.",
+                    "Would you quit your job if you inherited lots of money?"
+                  ],
+                  "learnerExample": " Learner example: Winning let me quit my job and I could afford [to] study more English than I used to do. Preliminary English Test; B1; Polish"
+                }
+              },
+              {
+                "short": "STOP SOMETHING",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "[T]",
+                  "def": "to stop doing something",
+                  "dictionaryExamples": [
+                    "I'm going to quit smoking.",
+                    "Quit wasting my time!",
+                    "Press Q to quit the program."
+                  ],
+                  "learnerExample": " Learner example: And, last but not least, quit smoking! First Certificate in English; B2; Swedish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1057058?showLevel=a1_c2#",
+    "data": {
+      "word": "quite",
+      "transcription": "/kwɑɪt/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "adverb",
+            "blocks": [
+              {
+                "short": "VERY",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "to a large degree",
+                  "dictionaryExamples": [
+                    "Casey is quite tall.",
+                    "My new school is quite different."
+                  ],
+                  "learnerExample": " Learner example: She bought me a dress for my aunt's wedding.  It was quite expensive, ap[p]roximately 300 euros. Key English Test; A2; Catalan"
+                }
+              },
+              {
+                "short": "",
+                "phrase": " quite a few/a lot",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "a large amount or number",
+                  "dictionaryExamples": [
+                    "They earn quite a lot of money.",
+                    "Quite a few people complained."
+                  ],
+                  "learnerExample": " Learner example: There were quite a lot of people. Key English Test; A2; Spanish"
+                }
+              },
+              {
+                "short": "COMPLETELY",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "completely",
+                  "dictionaryExamples": [
+                    "Quite frankly, the thought of performing terrifies me.",
+                    "I'm not quite sure I understand what you mean.",
+                    "Dinner isn't quite ready yet.",
+                    "The two situations are quite different."
+                  ],
+                  "learnerExample": " Learner example: I'm quite sure you will love my country, especially the Amazon basins and the biggest rain-forest [in] the world! Preliminary English Test; B1; Portuguese"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "quite a while",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "a long time",
+                  "dictionaryExamples": [
+                    "I hadn’t seen Rebecca in quite a while.",
+                    "It took quite a while to clean out the garage."
+                  ],
+                  "learnerExample": " Learner example: But although I have what you could call \"simple\" tastes, it takes me quite a while to decide what to buy. Preliminary English Test; B1; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "quite a bit",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "a lot",
+                  "dictionaryExamples": [
+                    "He does quite a bit of traveling.",
+                    "She's quite a bit older than him."
+                  ],
+                  "learnerExample": " Learner example: We spent quite a bit of time [going] along the beach. Preliminary English Test; B1; French"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "not quite",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "almost but not completely",
+                  "dictionaryExamples": [
+                    "I'm not quite sure that I understand this.",
+                    "The colors don't quite match.",
+                    "He didn't get quite enough votes to win."
+                  ],
+                  "learnerExample": " Learner example: The student café has a welcoming atmosphere and most people said it was nice to sit and to drink coffee [there]. [T]he only problem is that there are not quite enough tables and chairs for everyone at busy times. First Certificate in English; B2; Russian"
+                }
+              },
+              {
+                "short": "TRULY",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "truly, really, or sincerely",
+                  "dictionaryExamples": [
+                    "It was quite a remarkable speech.",
+                    "Winning this contest was quite an accomplishment."
+                  ],
+                  "learnerExample": " Learner example: Moreover, the city is quite an interesting historical place, so you could visit some buildings such as the old castle or the local museum. First Certificate in English; B2; Catalan"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1057073?showLevel=a1_c2#",
+    "data": {
+      "word": "quiz",
+      "transcription": "/kwɪz/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "GAME",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "a game or competition in which you answer questions",
+                  "dictionaryExamples": ["a television quiz show"],
+                  "learnerExample": " Learner example: My team won the quiz. Key English Test; A2; Gujarati"
+                }
+              },
+              {
+                "short": "TEST",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "a short informal test",
+                  "dictionaryExamples": [
+                    "We had a history quiz today.",
+                    "There will be a quiz on Tuesday.",
+                    "I think I did well on the grammar quiz."
+                  ],
+                  "learnerExample": " Learner example: Well, I have to go right now because I have to study for the quiz. Preliminary English Test; B1; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3268327?showLevel=a1_c2#",
+    "data": {
+      "word": "quotation",
+      "transcription": "/kwoʊˈteɪ.ʃən/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "quotation, quote" },
+        { "part": "Verbs:", "value": "quote" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "PHRASE",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "a sentence or phrase that is taken from a book, poem, speech, etc.",
+                  "dictionaryExamples": [" a quotation from Shakespeare"],
+                  "learnerExample": " Learner example: Women also played an important role in his life, so it might also be a good idea to show pictures of his \"muses\" framed by quotations from his novels. Certificate of Proficiency in English; C2; German"
+                }
+              },
+              {
+                "short": "COST",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "the amount that a piece of work will probably cost",
+                  "dictionaryExamples": [
+                    " Make sure you get a quotation for all the work before they start."
+                  ],
+                  "learnerExample": " Learner example: I have attached a current quotation from the retailer who supplies that dining table. International English Language Testing System; C2; Urdu"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/3274667?showLevel=a1_c2#",
+    "data": {
+      "word": "quotationmarks",
+      "transcription": "/kwoʊˈteɪ.ʃənˌmɑːks/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "the \" \" punctuation marks that are put around a word or phrase to show that someone else has written or said it",
+                  "dictionaryExamples": [
+                    "Direct speech should be shown in quotation marks."
+                  ],
+                  "learnerExample": ""
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1057096?showLevel=a1_c2#",
+    "data": {
+      "word": "quote",
+      "transcription": "/kwoʊt/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "quotation, quote" },
+        { "part": "Verbs:", "value": "quote" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "REPEAT",
+                "phrase": "",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to repeat the words that someone else has said or written",
+                  "dictionaryExamples": [
+                    "He illustrated by quoting from Winston Churchill's speech.",
+                    "Can I quote you on that?",
+                    "She quoted him as saying he couldn’t care less."
+                  ],
+                  "learnerExample": " Learner example: Let me quote another sentence: \"...carefully selected host families.\" Certificate in Advanced English; C1; Swedish"
+                }
+              },
+              {
+                "short": "GIVE EXAMPLE",
+                "phrase": "",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to give a fact or example to support what you are saying",
+                  "dictionaryExamples": [
+                    "The judge quoted several cases to support his opinion."
+                  ],
+                  "learnerExample": " Learner example: We would like to quote some facts to support our points of view. Certificate in Advanced English; C1; Spanish"
+                }
+              },
+              {
+                "short": "COST",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to say how much a piece of work will cost",
+                  "dictionaryExamples": [
+                    "The roofer quoted $3000 to fix the roof."
+                  ],
+                  "learnerExample": " Learner example: I have spoken to the service department at IKEA and they have quoted me £400 to fix the whole thing back to its original shape. International English Language Testing System; C1; Urdu"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "REPEAT",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "the repeat of words that someone else has said or written",
+                  "dictionaryExamples": [
+                    "Use plenty of quotes from her poems in your essay."
+                  ],
+                  "learnerExample": " Learner example: My beloved diary [included] hundreds of quotes and drawings, illustrating my most intimate thoughts. Certificate of Proficiency in English; C2; French"
+                }
+              },
+              {
+                "short": "COST",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "a document or statement saying how much a piece of work will cost",
+                  "dictionaryExamples": ["I got three quotes for the work."],
+                  "learnerExample": " Learner example: I have already obtained a quote to have [the] damage repaired. International English Language Testing System; C2; Afrikaans"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

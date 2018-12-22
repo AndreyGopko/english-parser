@@ -1,0 +1,58 @@
+[
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3408466?showLevel=a1_c2#",
+    "data": {
+      "word": "xenophobia",
+      "transcription": "/ˌzen.əˈfoʊ.bi.ə/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "extreme dislike or fear of people from other countries",
+                  "dictionaryExamples": ["They accused her of xenophobia."],
+                  "learnerExample": " Learner example: This creates a climate of social tension. The number of poor people increase while the rich become richer and the middle-class tends to disappear; xenophobia and other cultural 'harassment' become popular, accompanied by more violence and increasing crime rates. Certificate of Proficiency in English; C2; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1080063?showLevel=a1_c2#",
+    "data": {
+      "word": "Xray",
+      "transcription": "/ˈeks.reɪ/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "a photograph that shows the inside of your body",
+                  "dictionaryExamples": ["They took an X-ray of his leg."],
+                  "learnerExample": " Learner example: I was with my last patient trying to operate [on] his damage[d] tooth when I realized the X-Ray was on the wrong side and that I wasn't working on the damage[d] tooth. First Certificate in English; B2; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

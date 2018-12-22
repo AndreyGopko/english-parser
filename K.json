@@ -1,0 +1,2816 @@
+[
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US2001716?showLevel=a1_c2#",
+    "data": {
+      "word": "kangaroo",
+      "transcription": "/ˌkæŋ.gəˈruː/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "a large Australian animal that moves by jumping on its back legs",
+                  "dictionaryExamples": [
+                    " Kangaroos are a danger on the roads."
+                  ],
+                  "learnerExample": " Learner example: Furthermore it has been my dream since I was five years old to see a kangaroo and play with it. First Certificate in English; B2; Greek"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039216?showLevel=a1_c2#",
+    "data": {
+      "word": "keen",
+      "transcription": "/kiːn/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "adjective",
+            "blocks": [
+              {
+                "short": "VERY GOOD",
+                "phrase": "",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "very good or well developed",
+                  "dictionaryExamples": [
+                    "a keen sense of smell",
+                    "a keen eye for detail"
+                  ],
+                  "learnerExample": " Learner example: Furthermore, she has a keen sense of humor and does not mind a practical joke, which is an advantage with children. Certificate in Advanced English; C1; German"
+                }
+              },
+              {
+                "short": "INTERESTED",
+                "phrase": "",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "very interested or enthusiastic",
+                  "dictionaryExamples": [
+                    "The class is for those who show a keen interest in painting.",
+                    "Theresa isn’t too keen on cats."
+                  ],
+                  "learnerExample": " Learner example: If everybody thinks that young people are not keen on playing sports, it is just not true, at least, in the International Students' Sports Club. Certificate in Advanced English; C1; Korean"
+                }
+              },
+              {
+                "short": "WANTING TO DO",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "wanting to do something",
+                  "dictionaryExamples": [
+                    "The company is keen to attract new customers."
+                  ],
+                  "learnerExample": " Learner example: Charity workers are keen to contribute with their work, their hearts and the seeds of hope and peace they leave wherever they go. Certificate of Proficiency in English; C2; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039223?showLevel=a1_c2#",
+    "data": {
+      "word": "keep",
+      "transcription": "/kiːp/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "keeper" },
+        { "part": "Verbs:", "value": "keep" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "HAVE",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "[T]",
+                  "def": "to have something permanently or for the whole of a period of time",
+                  "dictionaryExamples": [
+                    "Do you want this photograph back or can I keep it?"
+                  ],
+                  "learnerExample": " Learner example: I can't keep the sofa because [it] is too big. Key English Test; A2; Italian"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep sth in/on, etc.",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "to regularly store something in a particular place",
+                  "dictionaryExamples": [
+                    "Keep medicines in a locked cabinet.",
+                    "We'll keep your application on file."
+                  ],
+                  "learnerExample": " Learner example: All my homework sheets were kept in that file. Key English Test; A2; Bengali"
+                }
+              },
+              {
+                "short": "STAY",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "[T]",
+                  "def": "to (cause to) stay in a particular place or condition",
+                  "dictionaryExamples": [
+                    "I wish you'd keep quiet.",
+                    "I like to keep busy.",
+                    "Keep left/right at the traffic light.",
+                    "It was difficult for us to keep warm because the house had no heating.",
+                    "He goes jogging twice a week to keep in shape.",
+                    "John keeps the car spotlessly clean.",
+                    "The noise from their party kept me awake half the night."
+                  ],
+                  "learnerExample": " Learner example: In the hotel you have to keep quiet and go to bed early. First Certificate in English; B2; Japanese"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep doing sth",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "to continue doing something without stopping, or to do it repeatedly",
+                  "dictionaryExamples": [
+                    "He keeps trying to distract me.",
+                    "I kept hoping that he'd phone me."
+                  ],
+                  "learnerExample": " Learner example: I don't know why I wanted to meet her so much but my heart just kept telling me to go after her. Preliminary English Test; B1; Portuguese"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep in touch",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "to communicate or continue to communicate with someone, for example by e-mail or telephone",
+                  "dictionaryExamples": [
+                    "We've kept in touch by e-mail for the last five years."
+                  ],
+                  "learnerExample": " Learner example: Please keep in touch with me. Preliminary English Test; B1; Portuguese"
+                }
+              },
+              {
+                "short": "DELAY",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "[T]",
+                  "def": "to delay someone or prevent them from doing something",
+                  "dictionaryExamples": [
+                    "He's very late, what's keeping him?",
+                    "She kept me talking on the phone for half an hour.",
+                    "Don't let me keep you from your work."
+                  ],
+                  "learnerExample": " Learner example: I'm sure they won't try to keep you from having fun. Preliminary English Test; B1; German"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep a/sth secret",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "to not tell anyone a secret/about something secret",
+                  "dictionaryExamples": [
+                    "Mr. Brown apparently delayed the announcement, and managed to keep it secret from the entire group."
+                  ],
+                  "learnerExample": " Learner example: I [had] loved Sean since sixth grade but I was keeping it a secret. Preliminary English Test; B1; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep sb waiting",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to be late so that someone has to wait for you",
+                  "dictionaryExamples": [
+                    "I'm sorry to have kept you waiting.",
+                    "The dentist kept me waiting for hours."
+                  ],
+                  "learnerExample": " Learner example: A week later, when we were going to have our second lesson, she kept us waiting for almost an hour. First Certificate in English; B2; Portuguese"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep a/your promise",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to do what you promised to do",
+                  "dictionaryExamples": [
+                    "James kept his promise and repaid all of the money he had borrowed."
+                  ],
+                  "learnerExample": " Learner example: She didn't keep her promise and she ruined my life. First Certificate in English; B2; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep notes/records, etc.",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to write something down in order to remember it",
+                  "dictionaryExamples": [
+                    "Remember to keep a record of how much you spend."
+                  ],
+                  "learnerExample": " Learner example: Furthermore, a computer helps us to keep records by saving file[s]. First Certificate in English; B2; Chinese"
+                }
+              },
+              {
+                "short": "FOOD",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "[I]",
+                  "def": "If food or drink keeps, it remains fresh.",
+                  "dictionaryExamples": [
+                    "Once opened, this product will keep for three days if refrigerated."
+                  ],
+                  "learnerExample": ""
+                }
+              },
+              {
+                "short": "ANIMALS",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "[T]",
+                  "def": "to have and look after animals",
+                  "dictionaryExamples": ["Our neighbors keep chickens."],
+                  "learnerExample": " Learner example: Oh, and I was surp[r]ised because your mother finally agreed to keep a dog. First Certificate in English; B2; Portuguese"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep your/an eye on sb/sth",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to watch or look after someone or something",
+                  "dictionaryExamples": [
+                    "Could you keep an eye on this the soup  for a minute?"
+                  ],
+                  "learnerExample": " Learner example: You have to supply [e]verything they need and keep an eye on them all the time. First Certificate in English; B2; Turkish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep sb company",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to stay with someone so that they are not alone",
+                  "dictionaryExamples": ["Come and keep me company, Isabel."],
+                  "learnerExample": " Learner example: I wish you came and kept me company. First Certificate in English; B2; Russian"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep sb/sth in mind",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to remember to consider someone or something that may be useful in the future",
+                  "dictionaryExamples": [
+                    "\n                         I'll keep you in mind if another job comes up."
+                  ],
+                  "learnerExample": " Learner example: But we should keep in mind that books improve our vocabulary and, what's more, our imagination. First Certificate in English; B2; Czech"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep track",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to continue to know about someone or something",
+                  "dictionaryExamples": [
+                    "He changes jobs so often I can’t keep track anymore.",
+                    "Be sure to keep track of the time so you won't be late."
+                  ],
+                  "learnerExample": " Learner example: Trying to keep track of these changes by translating them would be an inappropriate task. Certificate in Advanced English; C1; German"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep your word",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to do what you said you would do",
+                  "dictionaryExamples": [
+                    "He agreed to come and I'm sure he'll keep his word."
+                  ],
+                  "learnerExample": " Learner example: It turned out that the company that had been hired to organize it did not keep their word. Certificate in Advanced English; C1; Norwegian"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep sb going",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to provide what someone needs for a short period of time",
+                  "dictionaryExamples": [
+                    "Dinner is at eight, but I had an apple to keep me going."
+                  ],
+                  "learnerExample": " Learner example: Because of health concerns, advertisements lately show the people in Holland how important it is to have a good breakfast and that it will keep you going the whole day. Certificate in Advanced English; C1; Dutch"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep pace with sb/sth",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to move or develop at the same speed as someone or something else",
+                  "dictionaryExamples": [
+                    "We have to keep pace with the changing times."
+                  ],
+                  "learnerExample": " Learner example: It was first published a century ago and what amazes people most is that [it] keeps pace with the development of the country without leaving out references to our history and tradition. Certificate in Advanced English; C1; Greek"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep a low profile",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to try not to be noticed",
+                  "dictionaryExamples": [
+                    "She has kept a low profile since the divorce."
+                  ],
+                  "learnerExample": " Learner example: Finally, I believe that the best way to handle these issues is to try to keep a low profile at all times and to remain indifferent to gossip. Certificate in Advanced English; C1; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep your cool",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to remain calm",
+                  "dictionaryExamples": [
+                    "You did well to keep your cool in all that panic."
+                  ],
+                  "learnerExample": " Learner example: Whatever the problem is, keep your cool, don't panic. Certificate in Advanced English; C1; Turkish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep a cool head",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to remain calm in a difficult situation",
+                  "dictionaryExamples": [
+                    "To be successful in business, you need to keep a cool head in negotiations."
+                  ],
+                  "learnerExample": " Learner example: Kevin managed to keep a cool head and took over the navigation. Certificate of Proficiency in English; C2; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep your eyes open (for sb/sth)",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to watch carefully for someone or something",
+                  "dictionaryExamples": [
+                    "Keep your eyes open for anything unusual."
+                  ],
+                  "learnerExample": " Learner example: While staying in Turkey, for example, people ought to keep their eyes open. Look into life there. \n Certificate of Proficiency in English; C2; German"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep your eyes peeled (for sb/sth)",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to watch carefully for someone or something",
+                  "dictionaryExamples": [
+                    "Keep your eyes peeled, he should be here any minute."
+                  ],
+                  "learnerExample": " Learner example: Ever since, I try to keep my eyes peeled for anything similar. Certificate of Proficiency in English; C2; Greek"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep a straight face",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to manage to stop yourself from smiling or laughing",
+                  "dictionaryExamples": [
+                    "I can never play jokes on people because I can't keep a straight face."
+                  ],
+                  "learnerExample": ""
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep your fingers crossed/cross your fingers",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to hope that things will happen in the way that you want them to, and to put a finger over the one next to it as a sign of that hope",
+                  "dictionaryExamples": [
+                    "Let's keep our fingers crossed that she gets the job.",
+                    "We're crossing our fingers and hoping that the weather stays fine."
+                  ],
+                  "learnerExample": " Learner example: Wish me luck, Winnie,\" she sighed \"keep your fingers crossed, please.\" Certificate of Proficiency in English; C2; German"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep your head above water",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to have just enough money to live or to continue a business",
+                  "dictionaryExamples": [
+                    "With extra income from private sponsorship, the club is just about managing to keep its head above water."
+                  ],
+                  "learnerExample": " Learner example: I also started to reali[z]e how much she had on her plate, how very little help she had and how, at times, she had to struggle just like me to keep her head above water. Certificate of Proficiency in English; C2; Dutch"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep (sth) quiet",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to not talk about something",
+                  "dictionaryExamples": [
+                    "It might be wise to keep this quiet for a while."
+                  ],
+                  "learnerExample": " Learner example: They tried to keep it quiet but, somehow, half the village knew about the news in a few days. Certificate of Proficiency in English; C2; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep your temper",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to succeed in staying calm and not becoming angry",
+                  "dictionaryExamples": [
+                    "It was hard to keep my temper with so many things going wrong."
+                  ],
+                  "learnerExample": " Learner example: He never offends people and he keeps his temper even if someone insults him. Certificate of Proficiency in English; C2; German"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "keep sb on their toes",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to make sure that someone gives all their attention to what they are doing and is ready for anything that might happen",
+                  "dictionaryExamples": [
+                    "We have random inspections to keep everyone on their toes."
+                  ],
+                  "learnerExample": ""
+                }
+              },
+              {
+                "phrasalVerb": "keep at sth\n                ",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "C2",
+                      "grams": "",
+                      "def": "to continue working hard at something difficult",
+                      "dictionaryExamples": [
+                        "Learning a language is hard but you've just got to keep at it."
+                      ],
+                      "learnerExample": " Learner example: Despite the fact that it requires patience, one should not work oneself up into a frenzy but keep at it. Certificate of Proficiency in English; C2; German"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep (sb/sth) away",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "to not go somewhere or near something, or to prevent someone from going somewhere or near something",
+                      "dictionaryExamples": [
+                        "I told them to keep away from the edge of the cliff."
+                      ],
+                      "learnerExample": " Learner example: But the animals themselves are being kept away from their natural environment in captivity. First Certificate in English; B2; German"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep (sb/sth) back",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "to not go near something, or to prevent someone or something from going past a particular place",
+                      "dictionaryExamples": [
+                        "The police struggled to keep the crowd back."
+                      ],
+                      "learnerExample": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep down sth or keep sth down",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "to stop the number, level, or size of something from increasing",
+                      "dictionaryExamples": [
+                        "I have to exercise to keep my weight down."
+                      ],
+                      "learnerExample": " Learner example: That's also a way of keeping down the many accidents we have from fast cycling. First Certificate in English; B2; Swedish"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep sb/sth from doing sth\n                ",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "C1",
+                      "grams": "",
+                      "def": "to prevent someone or something from doing something",
+                      "dictionaryExamples": [
+                        "Try to keep the children from dropping food all\n                             over the floor."
+                      ],
+                      "learnerExample": " Learner example: But its beautiful graphics and very rich text will keep you from complaining too much. \n Certificate in Advanced English; C1; Portuguese"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep sth from sb",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "C2",
+                      "grams": "",
+                      "def": "to not tell someone about something",
+                      "dictionaryExamples": [
+                        "Is there something you're keeping from me?"
+                      ],
+                      "learnerExample": " Learner example: They kept it from me. Certificate of Proficiency in English; C2; Greek"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep sb in",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B1",
+                      "grams": "",
+                      "def": "to make a child stay inside, often as a punishment, or to make someone stay in a hospital",
+                      "dictionaryExamples": [
+                        "She kept the children in because it was so cold."
+                      ],
+                      "learnerExample": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep (sb/sth) off sth\n                ",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B1",
+                      "grams": "",
+                      "def": "to not go onto an area, or to stop someone or something going onto an area",
+                      "dictionaryExamples": ["Keep off the grass."],
+                      "learnerExample": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep sth off (sb/sth)",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "to stop something touching or harming someone or something",
+                      "dictionaryExamples": [
+                        "He put a cloth over the food to keep the flies off."
+                      ],
+                      "learnerExample": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep on doing sth",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B1",
+                      "grams": "",
+                      "def": "to continue to do something, or to do something again and again",
+                      "dictionaryExamples": [
+                        "She kept on asking me questions the whole time."
+                      ],
+                      "learnerExample": " Learner example: I kept on looking for him outside my building and in the park, but I still [haven't found] him. Preliminary English Test; B1; Chinese"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep (sb/sth) out",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B1",
+                      "grams": "",
+                      "def": "to not go into a place, or to stop someone or something from going into a place",
+                      "dictionaryExamples": [
+                        "The building was unsafe so they put up a sign saying \"Danger - Keep out.\""
+                      ],
+                      "learnerExample": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep to sth",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "If you keep to a plan/subject/path, etc., you stay with it.",
+                      "dictionaryExamples": [
+                        "We need to keep to the agenda or the meeting will take too long.",
+                        "I wish you'd keep to the point!",
+                        "She kept to the main roads and was home before dark."
+                      ],
+                      "learnerExample": " Learner example: When the zoos keep to these and other important and necessary conditions and rules, I think it is not cruel to keep animals in zoos. First Certificate in English; B2; Dutch"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep sth to yourself",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "C2",
+                      "grams": "",
+                      "def": "If you keep something to yourself, you do not tell anyone else about it.",
+                      "dictionaryExamples": [
+                        "She usually keeps her opinions to herself."
+                      ],
+                      "learnerExample": " Learner example: She kept her thoughts to herself, her best friend being her diary. Certificate of Proficiency in English; C2; German"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep up sth or keep sth up",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B1",
+                      "grams": "",
+                      "def": "to continue doing something or not allow it to fall to a lower level",
+                      "dictionaryExamples": [
+                        "Keep up the good work.",
+                        "Make sure you eat - you've got to keep your strength up."
+                      ],
+                      "learnerExample": " Learner example: This is my advice: give up sports to keep up your music classes. First Certificate in English; B2; German"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep up (with sb/sth)",
+                "phrasalBlocks": [
+                  {
+                    "short": "SAME SPEED",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "to move at the same speed as someone or something that is moving forward so that you stay level with them",
+                      "dictionaryExamples": [
+                        "She was walking so fast I couldn't keep up with her."
+                      ],
+                      "learnerExample": " Learner example: Unfortunately he was too fast and I couldn't keep up with him. First Certificate in English; B2; Greek"
+                    }
+                  },
+                  {
+                    "short": "UNDERSTAND",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "to be able to understand or deal with something that is happening or changing very fast",
+                      "dictionaryExamples": [
+                        "It's important to keep up with international news."
+                      ],
+                      "learnerExample": " Learner example: I live in London and I have to keep up with Turkish news for my job. First Certificate in English; B2; Turkish"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep up (with sth)",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "C2",
+                      "grams": "",
+                      "def": "to increase or make progress at the same speed as something or someone else so that you stay at the same level as them",
+                      "dictionaryExamples": [
+                        "Prices have been rising very fast and wages haven't kept up."
+                      ],
+                      "learnerExample": " Learner example: We need more and more of our natural [resources] to be able to keep up with the rise in population. Certificate of Proficiency in English; C2; German"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "keep (sth) up",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "C2",
+                      "grams": "",
+                      "def": "to continue doing something or continue something without change",
+                      "dictionaryExamples": [
+                        "He was having trouble keeping up the payments on his car."
+                      ],
+                      "learnerExample": " Learner example: The reason why a person becomes homeless is that he or she is not able to pay the rent or fails to keep up the mortgage payments. Certificate of Proficiency in English; C2; Dutch"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039232?showLevel=a1_c2#",
+    "data": {
+      "word": "keeper",
+      "transcription": "/ˈkiː.pər/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "keeper" },
+        { "part": "Verbs:", "value": "keep" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "a person who takes care of animals or is in charge of valuable objects, a building, etc.",
+                  "dictionaryExamples": ["a zoo keeper", "a lighthouse keeper"],
+                  "learnerExample": " Learner example: Tina was confused because she wasn't a dragon keeper, so normal[l]y dragons didn't speak with her. First Certificate in English; B2; Portuguese"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039287?showLevel=a1_c2#",
+    "data": {
+      "word": "kettle",
+      "transcription": "/ˈket̬.əl/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "a covered container used for boiling water that has a handle and an opening for pouring",
+                  "dictionaryExamples": [],
+                  "learnerExample": " Learner example: If I have an electric kettle in my bedroom, I won't need to go to the kitchen. Preliminary English Test; B1; Korean"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039293?showLevel=a1_c2#",
+    "data": {
+      "word": "key",
+      "transcription": "/kiː/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "FOR LOCKS",
+                "phrase": "",
+                "sense": {
+                  "level": "A1",
+                  "grams": "",
+                  "def": "a piece of metal cut into a particular shape that is used for opening or closing the lock of a door, starting a car engine, etc.",
+                  "dictionaryExamples": ["car/door/house keys"],
+                  "learnerExample": " Learner example: I left my keys at your house. Key English Test; A2; Slovak"
+                }
+              },
+              {
+                "short": "ANSWERS",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "a list of answers to an exercise, quiz, test, etc.",
+                  "dictionaryExamples": [
+                    "You can check your answers in the answer key on page 176."
+                  ],
+                  "learnerExample": ""
+                }
+              },
+              {
+                "short": "METHOD",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "a way of explaining or achieving something",
+                  "dictionaryExamples": ["Hard work is the key to success."],
+                  "learnerExample": " Learner example: To those who say that money can't buy happiness I answer that money is a key to happiness. First Certificate in English; B2; French"
+                }
+              },
+              {
+                "short": "KEYBOARD",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "one of the places that you press with your fingers on a device such as a computer or on a musical instrument to produce letters, numbers, symbols, or produce a sound",
+                  "dictionaryExamples": [
+                    "Press the shift key to write in capital letters.",
+                    "piano keys"
+                  ],
+                  "learnerExample": " Learner example: What is more, you can get the information you need in just one second by pressing the \"enter\" key [o]n a computer. First Certificate in English; B2; Spanish"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "part": {
+            "title": "adjective",
+            "blocks": [
+              {
+                "short": "IMPORTANT",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "very important in influencing or achieving something",
+                  "dictionaryExamples": [
+                    "She was a key figure in the international art world.",
+                    "a key factor in tackling the problem"
+                  ],
+                  "learnerExample": " Learner example: Unfortunately one day I decided that it was time to become more independent and I didn't ask a key question. First Certificate in English; B2; Polish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "be key to sth",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to be very important in influencing or achieving something",
+                  "dictionaryExamples": [
+                    "Early diagnosis is key to your chances of surviving."
+                  ],
+                  "learnerExample": " Learner example: Distribution is key to achiev[ing] economic growth and the positioning of domestic and imported goods. International English Language Testing System; C1; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1187034?showLevel=a1_c2#",
+    "data": {
+      "word": "keyboard",
+      "transcription": "/ˈkiː.bɔːrd/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "COMPUTER",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "a set of keys that you press to use a computer",
+                  "dictionaryExamples": [
+                    "I got a new keyboard and mouse for my computer."
+                  ],
+                  "learnerExample": " Learner example: COMPUTER [FOR SALE] It's one year old so I [will] give you the monitor and keyboard. Key English Test; A2; Spanish"
+                }
+              },
+              {
+                "short": "MUSICAL INSTRUMENT",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "an electrical musical instrument similar to a piano, or the set of keys on a piano or similar musical instrument",
+                  "dictionaryExamples": [
+                    "Steve plays keyboards, drums, and saxophone."
+                  ],
+                  "learnerExample": " Learner example: I play two instruments, so I can help you with the concert, playing guitar or keyboard. Key English Test; A2; Portuguese"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039336?showLevel=a1_c2#",
+    "data": {
+      "word": "kick",
+      "transcription": "/kɪk/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "HIT",
+                "phrase": "",
+                "sense": {
+                  "level": "A1",
+                  "grams": "",
+                  "def": "to hit someone or something with the foot, or to move the feet and legs suddenly and violently",
+                  "dictionaryExamples": [
+                    "I kicked the ball as hard as I could.",
+                    "He was accused of kicking a man in the face."
+                  ],
+                  "learnerExample": " Learner example: I picked up a ball and kicked it, [and] the dog ran after it with the phone still in his mouth. Preliminary English Test; B1; Hindi"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "kick yourself",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to be very annoyed with yourself for doing something stupid or wrong",
+                  "dictionaryExamples": [
+                    "I could have kicked myself for saying that."
+                  ],
+                  "learnerExample": " Learner example: Nevertheless what kept me kicking myself was that this time my partner was in danger as well. Certificate of Proficiency in English; C2; Portuguese"
+                }
+              },
+              {
+                "phrasalVerb": "kick in",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "C1",
+                      "grams": "",
+                      "def": "to start to be effective or to happen",
+                      "dictionaryExamples": [
+                        "The new tax rate kicks in next month."
+                      ],
+                      "learnerExample": " Learner example: It is at this time that the hormones start to kick in resulting in most of them having to suffer the side effects. Certificate in Advanced English; C1; Chinese"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "kick off",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "C2",
+                      "grams": "",
+                      "def": "When an event kicks off, it begins.",
+                      "dictionaryExamples": [
+                        "What time does the parade kick off?"
+                      ],
+                      "learnerExample": " Learner example: Not only did [the invention of the wheel] improve daily movements, but also it kicked off a much faster and easier way of traveling all over the world. Certificate of Proficiency in English; C2; Italian"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "kick (sth) off",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "C2",
+                      "grams": "",
+                      "def": "When you kick off a discussion or activity, you start it.",
+                      "dictionaryExamples": [
+                        "Should we kick off the session with a presentation from Lisa?"
+                      ],
+                      "learnerExample": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "kick sb out",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "C1",
+                      "grams": "",
+                      "def": "to force someone to leave a place or organization",
+                      "dictionaryExamples": [
+                        "The store is closing - we should leave before they kick us out."
+                      ],
+                      "learnerExample": " Learner example: He will kick you out of his house without thanking you. Certificate in Advanced English; C1; Portuguese"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "HIT",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "the action of kicking something",
+                  "dictionaryExamples": [
+                    "She gave him a kick under the table to shut him up."
+                  ],
+                  "learnerExample": " Learner example: We [practiced] shooting, passing the ball to each other, and [taking a] corner kick. Preliminary English Test; B1; German"
+                }
+              },
+              {
+                "short": "FEELING",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "a special feeling of excitement and energy",
+                  "dictionaryExamples": [
+                    "She gets a kick out of performing live."
+                  ],
+                  "learnerExample": " Learner example: I really get a kick out of anything which concerns magic. Certificate of Proficiency in English; C2; Greek"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039351?showLevel=a1_c2#",
+    "data": {
+      "word": "kid",
+      "transcription": "/kɪd/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "a child",
+                  "dictionaryExamples": [
+                    "He took the kids to the park while I was working."
+                  ],
+                  "learnerExample": " Learner example: Even small kids came and had fun. Key English Test; A2; Bengali"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "to say something as a joke",
+                  "dictionaryExamples": ["You're just kidding me, aren't you?"],
+                  "learnerExample": " Learner example: I'm going to be a movie star!  Just kidding. Preliminary English Test; B1; German"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "Are you kidding?/You're kidding!",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "something you say to show that you are surprised by what someone has said, or do not believe it is true",
+                  "dictionaryExamples": [
+                    "\"She left on Friday.\" \"You're kidding! Really?\""
+                  ],
+                  "learnerExample": ""
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3266928?showLevel=a1_c2#",
+    "data": {
+      "word": "kidney",
+      "transcription": "/ˈkɪd.ni/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "one of the two organs in your body which remove waste from the blood and produce urine",
+                  "dictionaryExamples": ["kidney failure/disease"],
+                  "learnerExample": " Learner example: Her kidneys didn't work well enough to keep her healthy and someone had to be found who could give one of his kidneys to her. Certificate of Proficiency in English; C2; German"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039375?showLevel=a1_c2#",
+    "data": {
+      "word": "kill",
+      "transcription": "/kɪl/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "killer, killing" },
+        { "part": "Verbs:", "value": "kill" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "to cause someone or something to die",
+                  "dictionaryExamples": [
+                    "Her parents were killed in a plane crash.",
+                    "Smoking can kill.",
+                    "Food must be heated to a high temperature to kill harmful bacteria."
+                  ],
+                  "learnerExample": " Learner example: I like it because you must kill a lot of monsters. Key English Test; A2; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "sb will kill sb",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "used to say that someone will be very angry with someone else",
+                  "dictionaryExamples": ["Dad will kill me for being late."],
+                  "learnerExample": " Learner example: It's very important to find it because if not my mother will kill me! Key English Test; A2; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "kill time",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to do something while you are waiting for something else to happen or have nothing else to do",
+                  "dictionaryExamples": ["We killed time playing video games."],
+                  "learnerExample": " Learner example: When you are at home alone and have nothing to do, you can kill time watching television. First Certificate in English; B2; Japanese"
+                }
+              },
+              {
+                "short": "CAUSE PAIN",
+                "phrase": "",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to cause you a lot of pain or effort",
+                  "dictionaryExamples": [
+                    "My feet are killing me.",
+                    "It wouldn't kill you to clean up occasionally."
+                  ],
+                  "learnerExample": " Learner example: I didn't have enough room to move and the seat belt was broken so when we finally arrived [in] Edinburgh my back was killing me. Certificate in Advanced English; C1; Spanish"
+                }
+              },
+              {
+                "short": "END",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to stop an activity or experience completely",
+                  "dictionaryExamples": [
+                    "This funding cut will kill the program."
+                  ],
+                  "learnerExample": ""
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039379?showLevel=a1_c2#",
+    "data": {
+      "word": "killer",
+      "transcription": "/ˈkɪl.ər/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "killer, killing" },
+        { "part": "Verbs:", "value": "kill" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "someone who kills another person",
+                  "dictionaryExamples": [
+                    "Police are still hoping to find the dead woman's killer."
+                  ],
+                  "learnerExample": " Learner example: I opened the window to take a breath of fresh air and I saw the man again, the killer, smoking a cigarette  and looking at me. First Certificate in English; B2; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039387?showLevel=a1_c2#",
+    "data": {
+      "word": "killing",
+      "transcription": "/ˈkɪl.ɪŋ/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "killer, killing" },
+        { "part": "Verbs:", "value": "kill" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "when a person is murdered",
+                  "dictionaryExamples": ["a series of brutal killings"],
+                  "learnerExample": " Learner example: During the film there were a lot of explosions, killings and action scenes. Preliminary English Test; B1; Italian"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039394?showLevel=a1_c2#",
+    "data": {
+      "word": "kilo",
+      "transcription": "/ˈkiː.ləʊ/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "a kilogram",
+                  "dictionaryExamples": ["a 200 kilo block of concrete"],
+                  "learnerExample": " Learner example: We danced a lot, and I think everybody has lost 2 kilos. Key English Test; A2; Farsi"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039400?showLevel=a1_c2#",
+    "data": {
+      "word": "kilogram",
+      "transcription": "/ˈkɪl.əˌgræm/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "a unit of mass equal to 1000 grams, or 2.2 pounds",
+                  "dictionaryExamples": [],
+                  "learnerExample": ""
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/1936052?showLevel=a1_c2#",
+    "data": {
+      "word": "kilometer",
+      "transcription": "/ˈkɪ.lə.miː.t̬̬̬ər/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "a unit of measurement equal to 1000 meters",
+                  "dictionaryExamples": [],
+                  "learnerExample": " Learner example: The cottage is located in the mountains about 300 kilometers north of Oslo. First Certificate in English; B2; Swedish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039419?showLevel=a1_c2#",
+    "data": {
+      "word": "kind",
+      "transcription": "/kɑɪnd/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "kindness" },
+        { "part": "Adjectives:", "value": "kind, unkind" },
+        { "part": "Adverbs:", "value": "kindly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A1",
+                  "grams": "",
+                  "def": "a type of thing or person",
+                  "dictionaryExamples": [
+                    "What kind of music do you like?",
+                    "They make vehicles that  use two kinds of fuel - gasoline and diesel.",
+                    "Her travel company was the first of its kind."
+                  ],
+                  "learnerExample": " Learner example: We can go to Hopi Hari, it is a kind of theme park, I think you will like it very much! Key English Test; A2; Portuguese"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "all kinds of sth",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "many different types of something",
+                  "dictionaryExamples": [
+                    "The cabinet contained all kinds of strange things."
+                  ],
+                  "learnerExample": " Learner example: To help, I could bring all kinds of CDs. Key English Test; A2; Indonesian"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "that kind of thing",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "used to show that what you have just said is only an example from a larger group of things",
+                  "dictionaryExamples": [
+                    "I like pasta, pizza - that kind of thing/those kinds of things."
+                  ],
+                  "learnerExample": " Learner example: I enjoy that kind of thing, going to buy presents. Preliminary English Test; B1; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "some kind of",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "used to talk about something when you are not sure of its exact type",
+                  "dictionaryExamples": ["He's opening some kind of store."],
+                  "learnerExample": " Learner example: You should try joining some kind of club. Preliminary English Test; B1; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "kind of",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "used to describe something approximately",
+                  "dictionaryExamples": [
+                    "It's a kind of bike.",
+                    "He was kind of half laughing and half crying."
+                  ],
+                  "learnerExample": " Learner example: I know that the Frene Hotel is kind of expensive, but it's just for one night so I think we can make it. First Certificate in English; B2; Catalan"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "one of a kind",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "used to describe someone or something that is completely different from other people or things",
+                  "dictionaryExamples": [
+                    "My Dad was one of a kind - funny, kind and generous."
+                  ],
+                  "learnerExample": " Learner example: Pele is indeed one of a kind and can be considered a model for youngsters. Certificate of Proficiency in English; C2; Portuguese"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "part": {
+            "title": "adjective",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "generous, helpful, and thinking about other people's feelings",
+                  "dictionaryExamples": [
+                    "She's a very kind and thoughtful person.",
+                    "It's really kind of you to help us.",
+                    "Please be kind to your sister!"
+                  ],
+                  "learnerExample": " Learner example: It was very kind of you to come and talk to us about your latest work. First Certificate in English; B2; Japanese"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039432?showLevel=a1_c2#",
+    "data": {
+      "word": "kindly",
+      "transcription": "/ˈkɑɪn.dli/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "kindness" },
+        { "part": "Adjectives:", "value": "kind, unkind" },
+        { "part": "Adverbs:", "value": "kindly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "adverb",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "in a kind way",
+                  "dictionaryExamples": [
+                    "Stella has very kindly offered to help out with the food for the party."
+                  ],
+                  "learnerExample": " Learner example: He answers my simple questions kindly. Preliminary English Test; B1; Japanese"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "not take kindly to sth",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to not like something that someone says or does",
+                  "dictionaryExamples": [
+                    "He doesn't take kindly to criticism."
+                  ],
+                  "learnerExample": " Learner example: His wife didn't take kindly to his lateness and immediately snarled at him as though [she was] a tigress snapping her claws in a cat-fight. Certificate of Proficiency in English; C2; Chinese"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039435?showLevel=a1_c2#",
+    "data": {
+      "word": "kindness",
+      "transcription": "/ˈkaɪnd.nəs/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "kindness" },
+        { "part": "Adjectives:", "value": "kind, unkind" },
+        { "part": "Adverbs:", "value": "kindly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "the quality of being kind",
+                  "dictionaryExamples": ["love and kindness"],
+                  "learnerExample": " Learner example: Thank you again for your kindness and hospitality. First Certificate in English; B2; Italian"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039445?showLevel=a1_c2#",
+    "data": {
+      "word": "king",
+      "transcription": "/kɪŋ/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "RULER",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "(the title of) a male ruler of a country, who holds this position because of his royal birth",
+                  "dictionaryExamples": [
+                    "King Richard II",
+                    "the kings and queens of England"
+                  ],
+                  "learnerExample": " Learner example: The French kings lived at Versailles. Key English Test; A2; French"
+                }
+              },
+              {
+                "short": "BEST PERSON",
+                "phrase": "",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "the best or most important person in a particular activity",
+                  "dictionaryExamples": ["He's the new king of pop music."],
+                  "learnerExample": " Learner example: He is the king of football, which is not at all an exag[g]eration, even though he is retired now. Certificate in Advanced English; C1; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039448?showLevel=a1_c2#",
+    "data": {
+      "word": "kingdom",
+      "transcription": "/ˈkɪŋ.dəm/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "COUNTRY",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "a country ruled by a king or queen",
+                  "dictionaryExamples": ["the kingdom of Sweden"],
+                  "learnerExample": " Learner example: The kingdom Chosun lasted until the beginning of [the] 20th century. First Certificate in English; B2; Korean"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "the animal/plant kingdom",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "all animals or plants considered together",
+                  "dictionaryExamples": [
+                    "The monarch butterfly is one of the most beautiful creatures in the animal kingdom.\n "
+                  ],
+                  "learnerExample": " Learner example: As well as being of paramount importance for the animal kingdom, Hawley Woods is the only green open space left in our area where we humans can walk, jog or simply lie on the grass. Certificate of Proficiency in English; C2; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039491?showLevel=a1_c2#",
+    "data": {
+      "word": "kiss",
+      "transcription": "/kɪs/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "to press your lips against another person's lips or skin to show love or affection",
+                  "dictionaryExamples": [
+                    "She kissed him on the mouth.",
+                    "He kissed the children good night/goodbye."
+                  ],
+                  "learnerExample": " Learner example: I danced, drank a lot and kissed a girl. Key English Test; A2; Portuguese"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "an act of kissing someone",
+                  "dictionaryExamples": [
+                    "Give your granny a big kiss.",
+                    "a kiss on the lips"
+                  ],
+                  "learnerExample": " Learner example: Then she gave me her address and gave me a sweet kiss. Preliminary English Test; B1; German"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039500?showLevel=a1_c2#",
+    "data": {
+      "word": "kit",
+      "transcription": "/kɪt/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "a collection of things kept in a container for a particular use",
+                  "dictionaryExamples": ["a first-aid/tool kit"],
+                  "learnerExample": " Learner example: I would rather buy a big travel kit, including a first-aid kit.  First Certificate in English; B2; German"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039505?showLevel=a1_c2#",
+    "data": {
+      "word": "kitchen",
+      "transcription": "/ˈkɪtʃ.ən/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A1",
+                  "grams": "",
+                  "def": "a room where food is kept, prepared, and cooked and where the dishes are washed",
+                  "dictionaryExamples": [
+                    "We usually eat breakfast in the kitchen.",
+                    "the kitchen table"
+                  ],
+                  "learnerExample": " Learner example: I think my bag is in your kitchen. Key English Test; A2; German"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1187043?showLevel=a1_c2#",
+    "data": {
+      "word": "kite",
+      "transcription": "/kɑɪt/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "a toy made from paper or cloth which flies in the air on a long string",
+                  "dictionaryExamples": [
+                    "We spent the morning flying a kite in the local park."
+                  ],
+                  "learnerExample": " Learner example: I got a lot of presents: a kite, a ball, shoes, a T-shirt, trousers, jeans, and a dog. Key English Test; A2; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US2181071?showLevel=a1_c2#",
+    "data": {
+      "word": "kitten",
+      "transcription": "/ˈkɪt.ən/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "a young cat",
+                  "dictionaryExamples": ["Our cat's had two kittens. "],
+                  "learnerExample": ""
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039573?showLevel=a1_c2#",
+    "data": {
+      "word": "knee",
+      "transcription": "/niː/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "the middle part of your leg where it bends",
+                  "dictionaryExamples": [
+                    "a knee injury",
+                    "The baby was crawling around on its hands and knees.",
+                    "He got/went down on his knees in front of the altar."
+                  ],
+                  "learnerExample": " Learner example: He entered the living room drunk and with blood over his knee. Preliminary English Test; B1; Spanish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039586?showLevel=a1_c2#",
+    "data": {
+      "word": "kneel",
+      "transcription": "/niːl/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to go down into, or stay in, a position where one or both knees are on the ground",
+                  "dictionaryExamples": [
+                    "She knelt (down) beside the child.",
+                    "He knelt in front of the altar and prayed."
+                  ],
+                  "learnerExample": " Learner example: Robert knelt down by her, prono[u]ncing the simple words \"Will you marry me?\" First Certificate in English; B2; French"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039606?showLevel=a1_c2#",
+    "data": {
+      "word": "knife",
+      "transcription": "/nɑɪf/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "A1",
+                  "grams": "",
+                  "def": "a sharp tool, usually with a metal blade and a handle, used for cutting and spreading food or other substances, or as a weapon",
+                  "dictionaryExamples": [
+                    "a fish/butter/steak knife",
+                    "I prefer to use a knife and fork.",
+                    "He drew/pulled a knife and stabbed her."
+                  ],
+                  "learnerExample": " Learner example: I want to sell a beautiful old knife, because it doesn't cut anything. Key English Test; A2; French"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039622?showLevel=a1_c2#",
+    "data": {
+      "word": "knit",
+      "transcription": "/nɪt/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "to make clothes, etc. by using two long needles to connect wool or another type of thread into joined rows",
+                  "dictionaryExamples": [
+                    "She's forever knitting.",
+                    "She's busy knitting baby clothes.",
+                    "My granny knitted me some gloves/knitted some gloves for me."
+                  ],
+                  "learnerExample": " Learner example: I would really like to learn how to knit sweaters and hats. First Certificate in English; B2; Swedish"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3266944?showLevel=a1_c2#",
+    "data": {
+      "word": "knob",
+      "transcription": "/nɑb/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "a round handle, or a round button on a machine",
+                  "dictionaryExamples": [
+                    " a door knob ",
+                    "Turn the black knob to switch on the radio. "
+                  ],
+                  "learnerExample": " Learner example: It's so obvious that when we turn a knob on or when we switch on something [and] there is no electricity, we are at a loss! Certificate in Advanced English; C1; French"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039636?showLevel=a1_c2#",
+    "data": {
+      "word": "knock",
+      "transcription": "/nɑk/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "MAKE NOISE",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "[I]",
+                  "def": "to repeatedly hit something, making a noise",
+                  "dictionaryExamples": [
+                    "She knocked on the window to attract his attention.",
+                    "There's someone knocking on/at the door.",
+                    "Please knock before entering."
+                  ],
+                  "learnerExample": " Learner example: On Monday, a person knocked on my door. Preliminary English Test; B1; French"
+                }
+              },
+              {
+                "short": "HIT",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "[T]",
+                  "def": "to hit, especially forcefully, and cause to move or fall",
+                  "dictionaryExamples": [
+                    "He accidentally knocked the vase off the table.",
+                    "She knocked her head against the wall as she fell.",
+                    "She took a hammer and knocked a hole in the wall."
+                  ],
+                  "learnerExample": " Learner example: Falling down, I knocked my head on the pa[v]ement. First Certificate in English; B2; Greek"
+                }
+              },
+              {
+                "phrasalVerb": "knock sb down",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B1",
+                      "grams": "",
+                      "def": "to hit someone with a vehicle and injure or kill them",
+                      "dictionaryExamples": ["She was knocked down by a bus."],
+                      "learnerExample": " Learner example: The man explained that Lime was knocked down by a car and that he died immediately. First Certificate in English; B2; German"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "knock sth down",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "to destroy a building or part of a building",
+                      "dictionaryExamples": [
+                        "They've knocked down the old movie theater."
+                      ],
+                      "learnerExample": " Learner example: Since many of the office building are almost empty I also think that we should have them knocked down and replaced by green parks or other areas where no cars are to be allowed. First Certificate in English; B2; Swedish"
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "knock sb out",
+                "phrasalBlocks": [
+                  {
+                    "short": "HIT SOMEONE",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "to make someone become unconscious, usually by hitting them on the head",
+                      "dictionaryExamples": [
+                        "He was knocked out halfway through the fight."
+                      ],
+                      "learnerExample": " Learner example: Chris knocked him out with a strong punch without doubting that he was a criminal. First Certificate in English; B2; German"
+                    }
+                  },
+                  {
+                    "short": "DEFEAT IN COMPETITION",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "[often passive]",
+                      "def": "to defeat a person or team in a competition so they cannot take part any more",
+                      "dictionaryExamples": [
+                        "The Canadian team was knocked out in the semifinal."
+                      ],
+                      "learnerExample": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "phrasalVerb": "knock sth/sb over",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "to hit or push something or someone, especially accidentally, so that they fall to the ground or onto their side",
+                      "dictionaryExamples": [
+                        "I knocked a bottle of wine over while I was reaching for a dish.",
+                        "He banged into me so hard that he nearly knocked me over."
+                      ],
+                      "learnerExample": " Learner example: I knocked over the girl's cup, which was still full of milk. First Certificate in English; B2; Polish"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3266954?showLevel=a1_c2#",
+    "data": {
+      "word": "knot",
+      "transcription": "/nɑt/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "FASTENING",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "a place where one or more pieces of string, rope, etc. have been tied",
+                  "dictionaryExamples": ["Tie a knot in the rope."],
+                  "learnerExample": " Learner example: The man was always wearing a shabby coat and a big red scarf which was tied in a very complicated knot. Certificate of Proficiency in English; C2; Russian"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "tie the knot",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to get married",
+                  "dictionaryExamples": [
+                    "We're planning to tie the knot in April."
+                  ],
+                  "learnerExample": " Learner example: She was going to tie the knot in July. Certificate of Proficiency in English; C2; Japanese"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039667?showLevel=a1_c2#",
+    "data": {
+      "word": "know",
+      "transcription": "/noʊ/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "knowledge" },
+        { "part": "Verbs:", "value": "know" },
+        { "part": "Adjectives:", "value": "known, unknown, knowledgeable" },
+        { "part": "Adverbs:", "value": "knowingly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "verb",
+            "blocks": [
+              {
+                "short": "HAVE INFORMATION",
+                "phrase": "",
+                "sense": {
+                  "level": "A1",
+                  "grams": "[I or T]",
+                  "def": "to have knowledge or information about something in your mind",
+                  "dictionaryExamples": [
+                    "\"Where did he go?\" - \"I don't know.\"",
+                    "\"What does it cost?\" - \"Ask Kate. She'll know.\"",
+                    "She knows the name of every kid in the school.",
+                    "I don't know anything about this.",
+                    "We don't know when he's arriving.",
+                    "I don't know  what all the fuss is about.",
+                    "I just knew (that) it was going to be a disaster."
+                  ],
+                  "learnerExample": " Learner example: I don't know how long it is. Key English Test; A2; Russian"
+                }
+              },
+              {
+                "short": "ASK FOR INFORMATION",
+                "phrase": "",
+                "sense": {
+                  "level": "A1",
+                  "grams": "[T]",
+                  "def": "used to ask someone to tell you a piece of information",
+                  "dictionaryExamples": [
+                    "Do you know the time?",
+                    "Do you know where the Post Office is?"
+                  ],
+                  "learnerExample": " Learner example: Do you know why? Key English Test; A2; Chinese"
+                }
+              },
+              {
+                "short": "BE ABLE",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "[T]",
+                  "def": "to be able to do something",
+                  "dictionaryExamples": [
+                    "Do you know how to ski?",
+                    "I only know a little Spanish."
+                  ],
+                  "learnerExample": " Learner example: Some people know how to play the guitar. Key English Test; A2; Spanish"
+                }
+              },
+              {
+                "short": "BE CERTAIN",
+                "phrase": "",
+                "sense": {
+                  "level": "A2",
+                  "grams": "[I or T]",
+                  "def": "to be certain",
+                  "dictionaryExamples": [
+                    "I know (that) she'll be really pleased to hear the news.",
+                    "I don't know whether I should tell her or not."
+                  ],
+                  "learnerExample": " Learner example: I can't find the information, but I know the class is on Tuesday. Key English Test; A2; German"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "let sb know",
+                "sense": {
+                  "level": "A2",
+                  "grams": "",
+                  "def": "to tell someone something",
+                  "dictionaryExamples": [
+                    "Let me know if you're coming to the party."
+                  ],
+                  "learnerExample": " Learner example: I just want to let you know that we are going to use blue paint because I really like blue. Key English Test; A2; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "you know",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "used to emphasize what you are saying, or used before you start to talk about someone or something, or used as something to say while you are thinking what to say next",
+                  "dictionaryExamples": [
+                    "I'm not stupid, you know!",
+                    "You know the bookshop next to the bank? Well, it's closing down.",
+                    "It's, you know, supposed to be a surprise on her birthday."
+                  ],
+                  "learnerExample": ""
+                }
+              },
+              {
+                "short": "BE FAMILIAR WITH",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "[T]",
+                  "def": "to be familiar with or have experience and understanding of",
+                  "dictionaryExamples": [
+                    "I've known Daniel since we were in school together.",
+                    "She grew up in Paris so she knows it well.",
+                    "I've seen the film \"Casablanca\" so many times that I know a lot of it by heart.",
+                    "Knowing Sarah, she'll do a good job."
+                  ],
+                  "learnerExample": " Learner example: I knew him in London, and when I knew him I was very happy. Preliminary English Test; B1; Italian"
+                }
+              },
+              {
+                "short": "UNDERSTAND A SUBJECT",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "[I or T]",
+                  "def": "If you know a subject, you are familiar with it and understand it.",
+                  "dictionaryExamples": [
+                    "Do you know about computers?",
+                    "She knows her subject inside out."
+                  ],
+                  "learnerExample": " Learner example: If you want to know more about Peruvian history, I recommend you [visit] the city because you can see the old houses and museum[s]. Preliminary English Test; B1; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "get to know sb/sth\n                   ",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "to spend time with someone or something so that you gradually learn more about them",
+                  "dictionaryExamples": [
+                    "The first couple of meetings are for the doctor and patient to get to know each other.",
+                    "I'll need a few weeks to get to know the system."
+                  ],
+                  "learnerExample": " Learner example: I hope you can come here and get to know him. Preliminary English Test; B1; German"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "I know",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "used when you have an idea",
+                  "dictionaryExamples": ["I know - let's go to Helen's house."],
+                  "learnerExample": ""
+                }
+              },
+              {
+                "short": "",
+                "phrase": "as you know",
+                "sense": {
+                  "level": "B1",
+                  "grams": "",
+                  "def": "used when you are saying something that someone already knows",
+                  "dictionaryExamples": [
+                    "As you know, we have been trying to contact him."
+                  ],
+                  "learnerExample": " Learner example: As you know, I am in New York. Preliminary English Test; B1; Croatian"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "as far as I know",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "used to say that you think something is true, but you cannot be sure",
+                  "dictionaryExamples": [
+                    "As far as I know, he isn’t coming until tomorrow."
+                  ],
+                  "learnerExample": " Learner example: You wrote that you wanted to go next month, and as far as I know, that would be just fine. First Certificate in English; B2; Swedish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "know better (than to do sth)",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "to have the intelligence or judgment not to do something",
+                  "dictionaryExamples": [
+                    "She should have known better than to eat so much. No wonder she feels sick now."
+                  ],
+                  "learnerExample": " Learner example: I should have known better but I had to tell it to someone. First Certificate in English; B2; French"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "I know",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "used when you agree with something someone has just said",
+                  "dictionaryExamples": [
+                    "\"It's a beautiful day, isn't it?\" \"I know - let's hope it lasts.\""
+                  ],
+                  "learnerExample": ""
+                }
+              },
+              {
+                "short": "",
+                "phrase": "you never know",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "used to say that something could be possible although it does not seem likely",
+                  "dictionaryExamples": [
+                    "It sounds like a nice place to live, but you never know – we may not like it."
+                  ],
+                  "learnerExample": " Learner example: You never know, maybe I'll find something interesting and I'll change my point of view. First Certificate in English; B2; Polish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "before you know it",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "very soon",
+                  "dictionaryExamples": ["We'll be there before you know it."],
+                  "learnerExample": " Learner example: It is a bit dark inside, and especially in winter, it is dark before you know it. Certificate in Advanced English; C1; Dutch"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "know sth inside out",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to know everything about something",
+                  "dictionaryExamples": ["He knows the system inside out."],
+                  "learnerExample": " Learner example: The participants got to know Britain inside out and they are happy with the knowledge they gained. Certificate in Advanced English; C1; Chinese"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "know what you are talking about",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "to understand a subject because of your experience",
+                  "dictionaryExamples": [
+                    "He doesn't know what he's talking about - he's never even been to Africa."
+                  ],
+                  "learnerExample": " Learner example: I beli[e]ve that you don't really know what you're talking about. Certificate in Advanced English; C1; Swedish"
+                }
+              },
+              {
+                "short": "GUESS CORRECTLY",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "[T]",
+                  "def": "to guess something correctly",
+                  "dictionaryExamples": [
+                    "I should have  known he wouldn't come."
+                  ],
+                  "learnerExample": " Learner example: I should have known that he wouldn't understand. Certificate of Proficiency in English; C2; Greek"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "know best",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to be the most suitable person to have responsibility and make important decisions",
+                  "dictionaryExamples": [
+                    "When it comes to dealing with my own son, I think I know best."
+                  ],
+                  "learnerExample": " Learner example: How true is that expression \"Father knows best.\" If my father [was alive] today he would probably be laughing his head off. Certificate of Proficiency in English; C2; Spanish"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "know better",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to have enough experience not to do something stupid or something that will not achieve anything",
+                  "dictionaryExamples": [
+                    "I thought she'd listen to me - I should have known better."
+                  ],
+                  "learnerExample": " Learner example: Surely two grown-ups should have known better than to shout at each other at the top of their lungs. Certificate of Proficiency in English; C2; Italian"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "the next thing I knew",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "used to talk about part of a story that happens in a sudden and surprising way",
+                  "dictionaryExamples": [
+                    "A bike came speeding around the corner, and the next thing I knew I was lying on the ground."
+                  ],
+                  "learnerExample": " Learner example: And the next thing I knew was that I was playing cards with 3 men. Certificate of Proficiency in English; C2; Greek"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "know your stuff",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "to know a lot about a subject, or to be very good at doing something",
+                  "dictionaryExamples": [
+                    "She's an excellent teacher - she really knows her stuff."
+                  ],
+                  "learnerExample": " Learner example: The thing was that she should have been be able to tell them what to do; she never doubted her own abilities. She knew \t\"her stuff\" all right. Certificate of Proficiency in English; C2; Swedish"
+                }
+              },
+              {
+                "phrasalVerb": "know of sth/sb",
+                "phrasalBlocks": [
+                  {
+                    "short": "",
+                    "phrase": "",
+                    "sense": {
+                      "level": "B2",
+                      "grams": "",
+                      "def": "to have heard of something or someone and have a little information about them",
+                      "dictionaryExamples": [
+                        "I know of a good restaurant near the theater."
+                      ],
+                      "learnerExample": " Learner example: I know of a good restaurant that has opened recently and it's near your new apartment, so I suggest we go and try out the marvelous Chinese dishes the day after the concert. First Certificate in English; B2; Greek"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3318195?showLevel=a1_c2#",
+    "data": {
+      "word": "knowingly",
+      "transcription": "/ˈnoʊ.ɪŋ.li/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "knowledge" },
+        { "part": "Verbs:", "value": "know" },
+        { "part": "Adjectives:", "value": "known, unknown, knowledgeable" },
+        { "part": "Adverbs:", "value": "knowingly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "adverb",
+            "blocks": [
+              {
+                "short": "INTENTIONALLY",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "If you knowingly do something, you mean to do it although it is wrong.",
+                  "dictionaryExamples": ["I would never knowingly hurt her."],
+                  "learnerExample": " Learner example: Separate sex schools unavoidably tend to instill values knowingly or unknowingly. International English Language Testing System; C2; Gujarati"
+                }
+              },
+              {
+                "short": "SHOWING KNOWLEDGE",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "showing that you know what another person is really thinking",
+                  "dictionaryExamples": ["He smiled knowingly."],
+                  "learnerExample": " Learner example: On staring at the picture, he saw two women smiling enigmatically, rather knowingly. Certificate of Proficiency in English; C2; Korean"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US1039682?showLevel=a1_c2#",
+    "data": {
+      "word": "knowledge",
+      "transcription": "/ˈnɑl.ɪdʒ/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "knowledge" },
+        { "part": "Verbs:", "value": "know" },
+        { "part": "Adjectives:", "value": "known, unknown, knowledgeable" },
+        { "part": "Adverbs:", "value": "knowingly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "UNDERSTANDING",
+                "phrase": "",
+                "sense": {
+                  "level": "B1",
+                  "grams": "[U or no plural]",
+                  "def": "information and understanding that you have in your mind",
+                  "dictionaryExamples": [
+                    "Her knowledge of English grammar is very extensive.",
+                    "He has a limited knowledge of French.",
+                    "The details of the scandal are now common knowledge."
+                  ],
+                  "learnerExample": " Learner example: Actually, I wanted to improve my English knowledge, because I need a good job. Preliminary English Test; B1; Singhalese"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "to (the best of) my knowledge",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "used to say that you think that something is true, but cannot be sure",
+                  "dictionaryExamples": [
+                    "To the best of my knowledge, she's never worked abroad."
+                  ],
+                  "learnerExample": " Learner example: Besides, to the best of my knowledge, nowhere in the city can [you] try such lovely mushrooms. First Certificate in English; B2; Russian"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "common knowledge",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "something that a lot of people know",
+                  "dictionaryExamples": [
+                    "It's common knowledge that four of the teachers will not be returning next year."
+                  ],
+                  "learnerExample": " Learner example: It is common knowledge that such attention [in the mass-media] inevitably tells on relationships in the family. First Certificate in English; B2; Russian"
+                }
+              },
+              {
+                "short": "",
+                "phrase": "a working knowledge of sth",
+                "sense": {
+                  "level": "B2",
+                  "grams": "",
+                  "def": "knowledge about something which is good enough to be useful",
+                  "dictionaryExamples": [
+                    "She has a working knowledge of German and Russian."
+                  ],
+                  "learnerExample": " Learner example: Furthermore, I have a working knowledge of English, Spanish, Catalan and Italian. First Certificate in English; B2; Catalan"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3318200?showLevel=a1_c2#",
+    "data": {
+      "word": "knowledgeable",
+      "transcription": "/ˈnɑl.ɪdʒ.ə.bəl/",
+      "wordFamily": [
+        { "part": "Nouns:", "value": "knowledge" },
+        { "part": "Verbs:", "value": "know" },
+        { "part": "Adjectives:", "value": "known, unknown, knowledgeable" },
+        { "part": "Adverbs:", "value": "knowingly" }
+      ],
+      "gropus": [
+        {
+          "part": {
+            "title": "adjective",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "C1",
+                  "grams": "",
+                  "def": "knowing a lot",
+                  "dictionaryExamples": ["He's very knowledgeable about art."],
+                  "learnerExample": " Learner example: The teaching staff are largely responsible for the quality of the classes, as they're very knowledgeable and patient; being able to find them after classes, though, was impossible. Certificate in Advanced English; C1; Portuguese"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "link": "http://vocabulary.englishprofile.org/dictionary/show/us/US3318204?showLevel=a1_c2#",
+    "data": {
+      "word": "knuckle",
+      "transcription": "/ˈnʌk.əl/",
+      "wordFamily": [],
+      "gropus": [
+        {
+          "part": {
+            "title": "noun",
+            "blocks": [
+              {
+                "short": "",
+                "phrase": "",
+                "sense": {
+                  "level": "C2",
+                  "grams": "",
+                  "def": "one of the parts of your finger where it bends",
+                  "dictionaryExamples": [
+                    "I grazed my knuckles on the concrete."
+                  ],
+                  "learnerExample": " Learner example: What he could see was those two skinny figures, holding hands so tight[ly] that their knuckles were white. Certificate of Proficiency in English; C2; French"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]
