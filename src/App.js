@@ -18,7 +18,8 @@ class App extends Component {
   }
 
   parse = () => {
-    fetch('http://localhost:3001?queryUrl=' + this.state.url + '&letter=' + this.state.letter);
+    // fetch('http://localhost:3001?queryUrl=' + this.state.url + '&letter=' + this.state.letter);
+    fetch('http://localhost:3001')
   }
 
   render() {

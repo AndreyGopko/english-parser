@@ -16,7 +16,7 @@ app.use((request, response, next) => {
 })
 
 function saveResultsToFile(filename, data) {
-  fs.writeFile('./'+filename+'.json', JSON.stringify(data), () => {});
+  fs.writeFile('../'+filename+'.json', JSON.stringify(data), () => {});
 }
 
 const parse = async (urlPage) => {
@@ -68,6 +68,7 @@ const parse = async (urlPage) => {
       try {
         const word = $('.content-panel #dictionary_entry .head .hw a').text();
         const transcription = `/${$('.content-panel #dictionary_entry .head .pron .ipa').text()}/`;
+        const notes = $('.content-panel #dictionary_entry .head .infgrp').text();
         const wordFamily = $('.content-panel #dictionary_entry .WordBuilder .section')
           .map(function(i, el){
           return {
@@ -78,11 +79,14 @@ const parse = async (urlPage) => {
               }).get().join(', '),
           }
         }).get();
-        const gropus = $('.content-panel #dictionary_entry .posblock')
+        const groups = $('.content-panel #dictionary_entry .posblock')
           .map(function(i, el) {
             return {
               part: {
                 title: $(el).find('> .posgram .pos').text(),
+                transcription: `/${$(el).find('> .pron .ipa').text()}/`,
+                grams: $(el).find('> .posgram .grams').text().trim(),
+                form: $(el).find('> .infgrp').text(),
                 blocks: $(el).find('> .gwblock, > .phrasal_verb').map(function(j, node) {
                   if ($(node).is('.phrasal_verb')) {
                     return {
@@ -91,6 +95,7 @@ const parse = async (urlPage) => {
                         return {
                           short: $(node).find('h3.gw').text(),
                           phrase: $(node).find('h3.phrase').text(),
+                          style: $(node).find('span.lab').text(),
                           sense: {
                             level: $(node).find('.sense [class^="freq-"]').text(),
                             grams: $(node).find('.sense > .grams').text().trim(),
@@ -108,6 +113,7 @@ const parse = async (urlPage) => {
                   return {
                     short: $(node).find('h3.gw').text(),
                     phrase: $(node).find('h3.phrase').text(),
+                    style: $(node).find('span.lab').text(),
                     sense: {
                       level: $(node).find('.sense [class^="freq-"]').text(),
                       grams: $(node).find('.sense > .grams').text().trim(),
@@ -129,8 +135,9 @@ const parse = async (urlPage) => {
           data: {
             word,
             transcription,
+            notes,
             wordFamily,
-            gropus
+            groups
           }
         }
       } catch (err) {
@@ -144,12 +151,47 @@ const parse = async (urlPage) => {
   return results;
 }
 
-app.get('/', (request, response) => {
-  const { queryUrl, letter } = request.query;
-  parse(queryUrl).then(res => {
-    saveResultsToFile(letter, res)
-    response.send(res);
-  }).catch(e => console.log('ERROR', e));
+app.get('/', async (request, response) => {
+  request.setTimeout(7000000);
+  // const { queryUrls, letter } = request.query;
+  const queryUrls = [
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/A/US1001497',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/B/US1005691',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/C/US1185916',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/D/US1016799',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/E/US1021237',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/F/3265887',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/G/US3352247',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/H/US1032335',
+    'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/I/US1087281',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/J/US1038422',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/K/US2001716',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/L/US1039771',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/M/3355078',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/N/US1046648',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/O/US1048340',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/P/US1050324',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/Q/US3394355',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/R/US1057115',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/S/1060918',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/T/US1070752',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/U/2001218',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/V/US3408153',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/W/US1077528',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/X/US3408466',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/Y/US1080075',
+    // 'http://vocabulary.englishprofile.org/dictionary/word-list/us/a1_c2/Z/US2001710',
+  ];
+
+  for (let queryUrl of queryUrls) {
+    const urlSplitted = queryUrl && queryUrl.split('/');
+    const letter = urlSplitted[urlSplitted.length - 2];
+    console.log(queryUrl, letter);
+    await parse(queryUrl).then(async res => {
+      await saveResultsToFile(letter, res)
+      await response.send(res);
+    }).catch(e => console.log('ERROR', e));
+  }
 })
 
 app.listen(3001)
